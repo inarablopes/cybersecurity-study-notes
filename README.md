@@ -44,10 +44,8 @@ Alguns dos incidentes estudados:
 
 Acompanhamento simples da minha evolução nos estudos:
 
-- [ ] Análise de Incidentes / MITRE ATT&CK
+- [X] Análise de Incidentes / MITRE ATT&CK
 - [ ] Laboratórios práticos
-
-> Atualize os checkboxes (`[x]`) conforme for concluindo cada trilha de estudo.
 
 ## Como usar este repositório
 
